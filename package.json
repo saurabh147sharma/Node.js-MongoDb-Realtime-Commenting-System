@@ -1,0 +1,10 @@
+{
+    "name": "Node.js-MongoDb-Realtime-Commenting-System",
+    "version": "0.0.1",
+    "dependencies": {
+        "ejs": "^2.5.7",
+        "express": "*",
+        "mongoose": "^4.13.7",
+        "socket.io": "*"
+    }
+}
